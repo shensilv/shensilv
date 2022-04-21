@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Silvia
+- 👀 I’m interested in statistics, genetics, computational biology, bioinformatics, high performance computing
+- 🌱 I’m currently doing my PhD in statistical genetics
+- 📫 How to reach me: twitter sshen2021, or find me on my webpage https://www.ed.ac.uk/profile/silvia-shen-phd-student
