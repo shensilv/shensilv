@@ -2,4 +2,3 @@
 - 👀 I’m interested in statistics, genetics & computational biology
 - 🌱 I’m currently doing my PhD in statistical genetics
 - 📫 How to reach me: twitter @sshengen, or find me on my webpage https://www.ed.ac.uk/profile/silvia-shen-phd-student
-- Most of my projects are currently confidential, but keep an eye out! XD
